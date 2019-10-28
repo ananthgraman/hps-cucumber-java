@@ -11,6 +11,8 @@ The goals are:
  * to show how tests are exported in Cucumber/Java.
  * to check exports work out of the box (well, with implemented actionwords)
 
+ Hi there
+ 
 System under test
 ------------------
 
